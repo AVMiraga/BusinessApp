@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.Business.deps.json
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.Business.dll
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.Business.pdb
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.Core.dll
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.DAL.dll
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.DAL.pdb
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\bin\Debug\net8.0\BusinessApp.Core.pdb
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.csproj.CopyComplete
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.dll
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\refint\BusinessApp.Business.dll
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\BusinessApp.Business.pdb
+C:\Users\II novbe\source\repos\BusinessApp\BusinessApp.Business\obj\Debug\net8.0\ref\BusinessApp.Business.dll
